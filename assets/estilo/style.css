@@ -29,3 +29,8 @@ div#resultado {
     padding: 10px 30px;
     border-radius: 15px;
 }
+
+input.button{
+    width: 45px;
+    
+}
