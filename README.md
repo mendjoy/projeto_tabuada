@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="150"src="assets/imagens/readme/math.png"/>
+    <img width="100"src="assets/imagens/readme/math.png"/>
 </p>
 <h1>Projeto Tabuada</h1>
 
